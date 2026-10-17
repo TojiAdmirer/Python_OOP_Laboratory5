@@ -9,8 +9,8 @@ class CollegeStudent(Student):
     def study(self):
         print("College student is studying programming.")
 
-s = Student(10)
-cs = CollegeStudent(12)
+s = Student(98)
+cs = CollegeStudent(95)
 
 s.study()
 cs.study()
